@@ -40,5 +40,4 @@ steps:
     azureSubscription: 'Azure for Students Starter(1f57de72-50fd-4271-8ab9-3fc129f02bc0)'
     appType: 'webAppLinux'
     WebAppName: 'DemoASPNETCoreUPT2020'
-    packageForLinux: '$(System.ArtifactsDirectory)/drop/*.zip'
-    
+    packageForLinux: '$(Pipeline.Workspace)/drop/*.zip'
