@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj": {}
+    "c:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj": {
+    "c:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj",
+        "projectUniqueName": "c:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj",
         "projectName": "DemoASPNetCore",
-        "projectPath": "C:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj",
+        "projectPath": "c:\\proyectos\\DemoASPNetCore\\DemoASPNetCore.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\DemoASPNetCore\\obj\\",
+        "outputPath": "c:\\proyectos\\DemoASPNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
